@@ -1,2 +1,3 @@
-# numerical-computation-project
-Repository for my 4-th term of college lecture called numerical computation. This project includes Runge Kutta and Integration method.
+# Numerical Computation Final Project
+Solved real world Electrical Engineering or Scientific problem using Integration and Runge Kutta method for
+approximation.
